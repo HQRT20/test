@@ -1,1 +1,1 @@
-worker: python sar7ne_bot1.py
+worker: python sar7ne_bot-1.py
